@@ -1,0 +1,26 @@
+[ 
+    {
+        "id": "1",
+        "name": "Producto A",
+        "autor": "J.S.1",
+        "tag": "foto1",
+        "img": "src=https://picsum.photos/310",
+        "price": 15
+    },
+    {
+        "id": "2",
+        "name": "Producto B",
+        "autor": "J.S.2",
+        "tag": "foto2",
+        "img": "src=https://picsum.photos/320/",
+        "price": 25
+    },
+    {
+        "id": "3",
+        "name": "Producto C",
+        "autor": "J.S.3",
+        "tag": "foto3",
+        "img": "src=https://picsum.photos/330/",
+        "price": 35
+    }
+]
